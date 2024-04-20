@@ -1,4 +1,5 @@
 # hello-world
-Убрал
+Changed line
 Поменял
 Добавил
+Add new line
